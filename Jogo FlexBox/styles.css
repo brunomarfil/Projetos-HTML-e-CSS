@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+img{
+    max-width: 55%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.back a{
+    font-size: 20px;
+    margin-top: 15px; 
+    display: inline-block;
+}
+
+ul{
+    display: flex;
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+ }
+ 
+ ul, li, a{
+     margin-right: 10px;
+     justify-content: center;
+     font-size: 15px;
+     text-decoration: none;
+}
