@@ -1,1 +1,1 @@
---Projetos inovadores e criativos utilizando apenas HTML e CSS--
+Projetos inovadores e criativos para aprendizagem utilizando apenas HTML e CSS
